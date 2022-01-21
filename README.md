@@ -1,7 +1,7 @@
 ## Olá! Eu sou Vinícius Alarcon
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 ####  Se quiser entrar em contato, me manda um e-mail!
-### <a href="mailto:adrian.siilvanascimento@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
+### <a href="mailto:alarcon.pqd74@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 
 <div>
   <a href="https://github.com/AlarconVinicius">

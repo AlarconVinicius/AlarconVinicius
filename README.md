@@ -15,8 +15,7 @@
   <img align="center" alt="Logo Vinicius MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Logo Vinicius PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
-
-<br>
+<hr>
 
 - 🔭 I’m currently working on [ProjCloneOrganizze](https://github.com/AlarconVinicius/ProjCloneOrganizze)
 
@@ -33,4 +32,8 @@
   </p>
 </div>
 
-<br>
+<div> 
+ 
+  ![Snake animation](https://github.com/gabrielaguaru/gabrielaguaru/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

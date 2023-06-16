@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinícius Alarcon</h1>
-<h3 align="center">Portuguese (Português): Entusiasta apaixonado por programação em busca de desafios e soluções inovadoras. Acredito no poder da programação como forma de expressão criativa para moldar o mundo.<br>
-English (Inglês): Passionate programming enthusiast seeking challenges and innovative solutions. I believe in the power of programming as a creative expression to shape the world.</h3>
+<h3 align="left">Portuguese (Português): Entusiasta apaixonado por programação em busca de desafios e soluções inovadoras.</h3>
+<h3 align="left">English (Inglês): Passionate programming enthusiast seeking challenges and innovative solutions.</h3>
 
 - 🔭 I’m currently working on [ProjCloneOrganizze](https://github.com/AlarconVinicius/ProjCloneOrganizze)
 

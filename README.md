@@ -17,7 +17,7 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on [ProjCloneOrganizze](https://github.com/AlarconVinicius/ProjCloneOrganizze)
+- 🔭 I’m currently working on [ProjControleFinanceiro](https://github.com/AlarconVinicius/ProjCloneOrganizze)
 
 - 🌱 I’m currently learning **.NET Core and Angular**
 

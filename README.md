@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **.NET Core and Angular**
 
-- 👨‍💻 All of my projects are available at [https://alarconvinicius.github.io/Portfolio-Alarcon-Vinicius/](https://alarconvinicius.github.io/Portfolio-Alarcon-Vinicius/)
+- 👨‍💻 All of my projects are available at http://alarconvinicius.com.br/
 
 - 📫 How to reach me **alarcon.vinicius74@gmail.com**
 

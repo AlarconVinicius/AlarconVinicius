@@ -17,11 +17,9 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on [e-management-system](https://github.com/AlarconVinicius/e-management-system)
+- 🔭 I’m currently working on SaaS para ONGs - [Backend](https://github.com/AlarconVinicius/sistema-de-gestao-para-ong-de-animais) | [Frontend](https://github.com/AlarconVinicius/sistema-de-gestao-para-ong-de-animais-front)
 
-- 🌱 I’m currently learning **.NET Core and Angular**
-
-- 👨‍💻 All of my projects are available at http://alarconvinicius.com.br/
+- 🌱 I’m currently learning **.NET Core, ReactJs and Angular**
 
 - 📫 How to reach me **alarcon.vinicius74@gmail.com**
 

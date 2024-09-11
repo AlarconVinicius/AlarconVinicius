@@ -14,6 +14,7 @@
 - Design Patterns;
 - Restful API's;
 - SaaS;
+
 <img src="./assets/gifs/line.gif"><br><br>
 
 <picture><img align="right" src="./assets/img/work.png" width = 200px></picture>
